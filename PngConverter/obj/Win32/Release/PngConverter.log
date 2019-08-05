@@ -1,0 +1,4 @@
+﻿  main.cpp
+  png.cpp
+LINK : fatal error C1047: オブジェクトまたはライブラリ ファイル 'C:\Users\tokir\Desktop\DirectX12\PngConverter\lib\libpng\release\libpng16.lib' は、他のオブジェクトよりも古いコンパイラで作成されました。古いオブジェクトおよびライブラリをリビルドしてください。
+LINK : fatal error LNK1257: コードの生成に失敗しました。

@@ -1,0 +1,5 @@
+﻿  main.cpp
+  png.cpp
+C:\Users\tokir\Desktop\DirectX12\PngConverter\src\png\png.h(11,10): error C1083:  include ファイルを開けません。'libpng/png.h':No such file or directory
+  コードを生成中...
+C:\Users\tokir\Desktop\DirectX12\PngConverter\src\png\png.h(11,10): error C1083:  include ファイルを開けません。'libpng/png.h':No such file or directory
